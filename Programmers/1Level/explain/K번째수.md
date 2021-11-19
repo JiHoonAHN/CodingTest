@@ -21,4 +21,4 @@
 | [1, 5, 2, 6, 3, 7, 4] | [[2, 5, 3], [4, 4, 1], [1, 7, 3]]	 | [5, 6, 3] |
 
 
-[code](https://github.com/JiHoonAHN/CodingTest/blob/main/One%20Level/K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
+[code](https://github.com/JiHoonAHN/CodingTest/blob/main/Programmers/1Level/explain/Code/K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
