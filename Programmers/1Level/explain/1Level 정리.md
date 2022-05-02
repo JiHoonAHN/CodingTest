@@ -29,3 +29,45 @@
 27. [평균 구하기](https://github.com/JiHoonAHN/CodingTest/blob/main/Programmers/1Level/explain/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 28. [하샤드수](https://github.com/JiHoonAHN/CodingTest/blob/main/Programmers/1Level/explain/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md)
 29. [행렬의 덧셈](https://github.com/JiHoonAHN/CodingTest/blob/main/Programmers/1Level/explain/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)
+
+30. [신고 결과 받기]()
+
+31. [신규 아이디 추천]()
+
+32. [키패드 누르기]()
+
+33. [비밀지도]()
+
+34. [가운데 글자 가져오기]()
+
+35. [부족한 금액 계산하기]()
+
+36. [실패율]()
+
+37. [크레인 인형뽑기 게임]()
+
+38. [숫자 문자열과 영단어]()
+
+39. [로또의 최고 순위와 최저 순위]()
+
+40. [다트 게임]()
+
+41. [나누어 떨어지는 숫자 배열]()
+
+42. [문자열 내 마음대로 정렬하기]()
+
+43. [서울에서 김서방 찾기]()
+
+44. [소수 찾기]()
+
+45. [수박수박수박수박수박수?]()
+
+46. [시저 암호]()
+
+47. [정수 제곱근 판별]()
+
+48. [이상한 문자 만들기]()
+
+49. [핸드폰 번호 가리기]()
+
+50. [콜라츠 추측]()
